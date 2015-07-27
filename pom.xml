@@ -6,7 +6,6 @@
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>CounterService Maven Webapp</name>
-  <url>http://maven.apache.org</url>
   <repositories>
 		<repository>
 			<id>maven2-repository.java.net</id>
