@@ -1,6 +1,6 @@
 # CounterService
 Source code for the code test requested.<BR>
-A Jersey based webservice which has exposed following 3 methods <BR>
+A Jersey based REST webservice which has exposed following 3 methods <BR>
 1- getCounter(counterName) Returns the value of the named counter<BR>
 2- incrementCounter(counterName) increments the value of a named counter<BR>
 3- getAll() Returns a list of all the counters and their values<BR>
